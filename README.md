@@ -1,13 +1,4 @@
-# Tabular-Class-Conditioned-SSL
+# Tabular-Class-Conditioned-SS
+软件研23-2 472321748 童榜松
+This repository contains the code base for my paper "基于类条件和特征相关增强的表格数据对比学习".
 
-This repository contains the code base for our paper "Tabular Data Contrastive Learning via Class-Conditioned and Feature-Correlation Based Augmentation".
-
-For any reproduce, further research or development, please kindly cite our arXiv paper:
-<pre>
-@Article{ClsCondTabular, 
-    title = {Tabular Data Contrastive Learning via Class-Conditioned and Feature-Correlation Based Augmentation}, 
-    author = {Wei Cui and Rasa Hosseinzadeh and Junwei Ma and Tongzi Wu and Yi Sui and Keyvan Golestan}, 
-    journal = {arXiv preprint arXiv:2404.17489}", 
-    year = {2024}
-}
-</pre>
